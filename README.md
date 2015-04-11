@@ -43,7 +43,7 @@ Fiddler | http://goo.gl/VqpnOU | Requires .NET or Mono
 Distro | Links | Notes
 ------ | ----- | -----
 Kali | https://www.kali.org | "General Security Testing   See also:  http://www.blackmoreops.com"
-OWASP Web Testing Environment | https://www.owasp.org/index.php/OWASP_Web_Testing_Environment_Project | OWASP specific, mainly contains OWASP toolss
+OWASP Web Testing Environment | https://www.owasp.org/index.php/OWASP_Web_Testing_Environment_Project | OWASP specific, mainly contains OWASP tools
 Samurai-WTF | http://www.samurai-wtf.org | Web Security Testing
 Santoku | https://santoku-linux.com | Mobile Security Testing
 MobiSec | http://mobisec.professionallyevil.com | Mobile Security Testing
@@ -55,10 +55,11 @@ Also, take a look at this site:	http://www.toolswatch.org
 ####Static Analysis####
 
 __Discovering Sources and Sinks__
-http://code.google.com/p/domxsswiki/wiki/Introduction
-http://www.webappsec.org/projects/articles/071105.shtml
-http://html5sec.org
-http://goo.gl/vf61Km		(Spreadsheet of srcs/snks for JSPrime tool)
+* http://code.google.com/p/domxsswiki/wiki/Introduction/
+* http://www.webappsec.org/projects/articles/071105.shtml/
+* http://html5sec.org/
+* http://goo.gl/vf61Km  		(Spreadsheet of srcs/snks for JSPrime tool)
+
 
 Automation tools
 
@@ -73,22 +74,26 @@ Yasca | http://scovetta.github.io/yasca/
 ####Dynamic Analysis####
 
 __Targets__
-Google Gruyere
-http://google-gruyere.appspot.com/start
-http://google-gruyere.appspot.com/part1
-OWASP Test Apps List
-https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps
-IBM Altoro Mutual Bank
-http://altoromutual.com
-OWASP Faux Bank
-http://www.fauxbank.co.uk
-http://github.com/thatcoderguy/owasp-faux-bank
-The Goats
-https://www.owasp.org/index.php/OWASP_WebGoat_Project
-https://www.owasp.org/index.php/Category:OWASP_WebGoat.NET
-https://www.openhub.net/p/owasp-goatdroid-project
-https://code.google.com/p/owasp-igoat/wiki/NewDownloads
-https://github.com/OWASP/NodeGoat
-http://nodegoat.herokuapp.com/
-http://www.ntobjectives.com/hackazon/
-http://hackyourselffirst.troyhunt.com
+* Google Gruyere
+  * http://google-gruyere.appspot.com/start/
+  * http://google-gruyere.appspot.com/part1/
+
+* OWASP Test Apps List
+  * https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps
+
+* IBM Altoro Mutual Bank
+  * http://altoromutual.com/
+
+* OWASP Faux Bank
+  * http://www.fauxbank.co.uk/
+  * http://github.com/thatcoderguy/owasp-faux-bank/
+
+* The Goats
+  * https://www.owasp.org/index.php/OWASP_WebGoat_Project/
+  * https://www.owasp.org/index.php/Category:OWASP_WebGoat.NET
+  * https://www.openhub.net/p/owasp-goatdroid-project/
+  * https://code.google.com/p/owasp-igoat/wiki/NewDownloads/
+  * https://github.com/OWASP/NodeGoat/
+  * http://nodegoat.herokuapp.com/
+  * http://www.ntobjectives.com/hackazon/
+  * http://hackyourselffirst.troyhunt.com/
