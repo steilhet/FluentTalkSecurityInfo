@@ -1,7 +1,8 @@
 #Transforming into Your Teams Web Security Guru#
 ##Information and links from the O'Reilly Fluent 2015 conference talk:##
 
-Important starting points:
+####Important starting points####
+
 Organization | Link
 ------------   ----
 SANS | sans.org
@@ -15,7 +16,9 @@ cwe.mitre.org/top25/
 But wait, there's more...
 cwe.mitre.org/top25/archive/2011/2011_onthecusp.html
 
-AppSec Knowledge - Know the vulnerabilities:
+
+####AppSec Knowledge - Know the vulnerabilities####
+
 Title	| Link
 -----   ----
 Web Top 10 | http://goo.gl/1lZpjT
@@ -27,7 +30,9 @@ The OWASP Guide to Building Secure Web Apps & Web Services | http://goo.gl/olLtH
 The OWASP Testing Guide | http://goo.gl/4XQiAv
 The OWASP Code Review Guide | http://goo.gl/5FizT7
 
-AppSec Knowledge - Know the tools:
+
+####AppSec Knowledge - Know the tools####
+
 Tool | Links | Notes
 ----   -----   -----
 ZAP Proxy | http://goo.gl/smh3Vm | OWASP’s Proxy
@@ -47,7 +52,8 @@ OWASP Broken Web Apps | http://sourceforge.net/projects/owaspbwa | Set of vulner
 
 Also, take a look at this site:	http://www.toolswatch.org
 
-Static Analysis
+
+####Static Analysis####
 
 Discovering Sources and Sinks:
 code.google.com/p/domxsswiki/wiki/Introduction
@@ -63,7 +69,8 @@ Static-DOM-XSS-Scanner	github.com/ajinabraham/Static-DOM-XSS-Scanner
 Scanjs	github.com/ajinabraham/scanjs
 Yasca	scovetta.github.io/yasca/
 
-Dynamic Analysis
+
+####Dynamic Analysis####
 
 Targets:
 Google Gruyere:
