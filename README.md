@@ -13,6 +13,7 @@ CAPEC | http://capec.mitre.org/data/index.html#search
 
 CWE/SANS Top 25 Most Dangerous Software Errors
 http://cwe.mitre.org/top25/
+
 But wait, there's more...
 http://cwe.mitre.org/top25/archive/2011/2011_onthecusp.html
 
@@ -36,15 +37,13 @@ The OWASP Code Review Guide | http://goo.gl/5FizT7
 Tool | Links | Notes
 ---- | ----- | -----
 ZAP Proxy | http://goo.gl/smh3Vm | OWASP’s Proxy
-Burp Suite | http://goo.gl/wCMGqA | "java -jar -Xmx1024m /path/to/burp.jar
-http://portswigger.net/burp/help/suite_gettingstarted.html
+Burp Suite | http://goo.gl/wCMGqA | "java -jar -Xmx1024m /path/to/burp.jar http://portswigger.net/burp/help/suite_gettingstarted.html"
 Fiddler | http://goo.gl/VqpnOU | Requires .NET or Mono
 
 Distro | Links | Notes
 ------ | ----- | -----
-Kali | https://www.kali.org | "General Security Testing
-See:  http://www.blackmoreops.com"
-OWASP Web Testing Environment | https://www.owasp.org/index.php/OWASP_Web_Testing_Environment_Project | OWASP specific, mainly contains OWASP tools
+Kali | https://www.kali.org | "General Security Testing   See also:  http://www.blackmoreops.com"
+OWASP Web Testing Environment | https://www.owasp.org/index.php/OWASP_Web_Testing_Environment_Project | OWASP specific, mainly contains OWASP toolss
 Samurai-WTF | http://www.samurai-wtf.org | Web Security Testing
 Santoku | https://santoku-linux.com | Mobile Security Testing
 MobiSec | http://mobisec.professionallyevil.com | Mobile Security Testing
@@ -55,35 +54,36 @@ Also, take a look at this site:	http://www.toolswatch.org
 
 ####Static Analysis####
 
-Discovering Sources and Sinks:
+__Discovering Sources and Sinks__
 http://code.google.com/p/domxsswiki/wiki/Introduction
-www.webappsec.org/projects/articles/071105.html
+http://www.webappsec.org/projects/articles/071105.shtml
 http://html5sec.org
-www.webappsec.org/projects/articles/071105.shtml
 http://goo.gl/vf61Km		(Spreadsheet of srcs/snks for JSPrime tool)
 
-Automation:
-Scanner	Link
-NodeJsScan	http://github.com/ajinabraham/NodeJsScan
-Static-DOM-XSS-Scanner	http://github.com/ajinabraham/Static-DOM-XSS-Scanner
-Scanjs	http://github.com/ajinabraham/scanjs
-Yasca	http://scovetta.github.io/yasca/
+Automation tools
+
+Scanner | Link
+------- | ----
+NodeJsScan | http://github.com/ajinabraham/NodeJsScan
+Static-DOM-XSS-Scanner | http://github.com/ajinabraham/Static-DOM-XSS-Scanner
+Scanjs | http://github.com/ajinabraham/scanjs
+Yasca | http://scovetta.github.io/yasca/
 
 
 ####Dynamic Analysis####
 
-Targets:
-Google Gruyere:
+__Targets__
+Google Gruyere
 http://google-gruyere.appspot.com/start
 http://google-gruyere.appspot.com/part1
-OWASP Test Apps List:
+OWASP Test Apps List
 https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps
-IBM Altoro Mutual Bank:
+IBM Altoro Mutual Bank
 http://altoromutual.com
-OWASP Faux Bank:
+OWASP Faux Bank
 http://www.fauxbank.co.uk
 http://github.com/thatcoderguy/owasp-faux-bank
-The Goats:
+The Goats
 https://www.owasp.org/index.php/OWASP_WebGoat_Project
 https://www.owasp.org/index.php/Category:OWASP_WebGoat.NET
 https://www.openhub.net/p/owasp-goatdroid-project
