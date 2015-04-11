@@ -4,23 +4,23 @@
 ####Important starting points####
 
 Organization | Link
-------------   ----
-SANS | sans.org
-OWASP | owasp.org
-CWE | cwe.mitre.org
-CVE | cve.mitre.org
-CAPEC | capec.mitre.org/data/index.html#search
+------------ | ----
+SANS | http://sans.org
+OWASP | http://owasp.org
+CWE | http://cwe.mitre.org
+CVE | http://cve.mitre.org
+CAPEC | http://capec.mitre.org/data/index.html#search
 
 CWE/SANS Top 25 Most Dangerous Software Errors
-cwe.mitre.org/top25/
+http://cwe.mitre.org/top25/
 But wait, there's more...
-cwe.mitre.org/top25/archive/2011/2011_onthecusp.html
+http://cwe.mitre.org/top25/archive/2011/2011_onthecusp.html
 
 
 ####AppSec Knowledge - Know the vulnerabilities####
 
 Title	| Link
------   ----
+----- | ----
 Web Top 10 | http://goo.gl/1lZpjT
 Mobile Top 10 | http://goo.gl/PcqNyc
 Cloud Top 10 | http://goo.gl/paAE3R
@@ -34,14 +34,14 @@ The OWASP Code Review Guide | http://goo.gl/5FizT7
 ####AppSec Knowledge - Know the tools####
 
 Tool | Links | Notes
-----   -----   -----
+---- | ----- | -----
 ZAP Proxy | http://goo.gl/smh3Vm | OWASP’s Proxy
 Burp Suite | http://goo.gl/wCMGqA | "java -jar -Xmx1024m /path/to/burp.jar
 http://portswigger.net/burp/help/suite_gettingstarted.html
 Fiddler | http://goo.gl/VqpnOU | Requires .NET or Mono
 
 Distro | Links | Notes
-------   -----   -----
+------ | ----- | -----
 Kali | https://www.kali.org | "General Security Testing
 See:  http://www.blackmoreops.com"
 OWASP Web Testing Environment | https://www.owasp.org/index.php/OWASP_Web_Testing_Environment_Project | OWASP specific, mainly contains OWASP tools
@@ -56,18 +56,18 @@ Also, take a look at this site:	http://www.toolswatch.org
 ####Static Analysis####
 
 Discovering Sources and Sinks:
-code.google.com/p/domxsswiki/wiki/Introduction
+http://code.google.com/p/domxsswiki/wiki/Introduction
 www.webappsec.org/projects/articles/071105.html
-html5sec.org
+http://html5sec.org
 www.webappsec.org/projects/articles/071105.shtml
 http://goo.gl/vf61Km		(Spreadsheet of srcs/snks for JSPrime tool)
 
 Automation:
 Scanner	Link
-NodeJsScan	github.com/ajinabraham/NodeJsScan
-Static-DOM-XSS-Scanner	github.com/ajinabraham/Static-DOM-XSS-Scanner
-Scanjs	github.com/ajinabraham/scanjs
-Yasca	scovetta.github.io/yasca/
+NodeJsScan	http://github.com/ajinabraham/NodeJsScan
+Static-DOM-XSS-Scanner	http://github.com/ajinabraham/Static-DOM-XSS-Scanner
+Scanjs	http://github.com/ajinabraham/scanjs
+Yasca	http://scovetta.github.io/yasca/
 
 
 ####Dynamic Analysis####
