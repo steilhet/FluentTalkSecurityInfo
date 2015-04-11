@@ -5,17 +5,17 @@
 
 Organization | Link
 ------------ | ----
-SANS | http://sans.org
-OWASP | http://owasp.org
-CWE | http://cwe.mitre.org
-CVE | http://cve.mitre.org
-CAPEC | http://capec.mitre.org/data/index.html#search
+SANS | https://sans.org
+OWASP | https://owasp.org
+CWE | https://cwe.mitre.org
+CVE | https://cve.mitre.org
+CAPEC | https://capec.mitre.org/data/index.html#search
 
 CWE/SANS Top 25 Most Dangerous Software Errors
-http://cwe.mitre.org/top25/
+https://cwe.mitre.org/top25/
 
 But wait, there's more...
-http://cwe.mitre.org/top25/archive/2011/2011_onthecusp.html
+https://cwe.mitre.org/top25/archive/2011/2011_onthecusp.html
 
 
 ####AppSec Knowledge - Know the vulnerabilities####
@@ -65,9 +65,10 @@ Automation tools
 
 Scanner | Link
 ------- | ----
-NodeJsScan | http://github.com/ajinabraham/NodeJsScan
-Static-DOM-XSS-Scanner | http://github.com/ajinabraham/Static-DOM-XSS-Scanner
-Scanjs | http://github.com/ajinabraham/scanjs
+NodeJsScan | https://github.com/ajinabraham/NodeJsScan
+NodeJsScan (forked) | https://github.com/steilhet/FluentTalkSecurityInfo
+Static-DOM-XSS-Scanner | https://github.com/ajinabraham/Static-DOM-XSS-Scanner
+Scanjs | https://github.com/ajinabraham/scanjs
 Yasca | http://scovetta.github.io/yasca/
 
 
@@ -76,7 +77,7 @@ Yasca | http://scovetta.github.io/yasca/
 __Targets__
 * Google Gruyere
   * http://google-gruyere.appspot.com/start/
-  * http://google-gruyere.appspot.com/part1/
+    * http://google-gruyere.appspot.com/part1/
 
 * OWASP Test Apps List
   * https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps
@@ -85,8 +86,8 @@ __Targets__
   * http://altoromutual.com/
 
 * OWASP Faux Bank
-  * http://www.fauxbank.co.uk/
   * http://github.com/thatcoderguy/owasp-faux-bank/
+    * http://www.fauxbank.co.uk/
 
 * The Goats
   * https://www.owasp.org/index.php/OWASP_WebGoat_Project/
@@ -94,6 +95,8 @@ __Targets__
   * https://www.openhub.net/p/owasp-goatdroid-project/
   * https://code.google.com/p/owasp-igoat/wiki/NewDownloads/
   * https://github.com/OWASP/NodeGoat/
-  * http://nodegoat.herokuapp.com/
+    * http://nodegoat.herokuapp.com/
+
+* Others
   * http://www.ntobjectives.com/hackazon/
   * http://hackyourselffirst.troyhunt.com/
