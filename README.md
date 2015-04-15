@@ -66,7 +66,7 @@ Automation tools
 Scanner | Link
 ------- | ----
 NodeJsScan | https://github.com/ajinabraham/NodeJsScan
-NodeJsScan (forked) | https://github.com/steilhet/FluentTalkSecurityInfo
+NodeJsScan (forked - with new rules) | https://github.com/steilhet/NodeJsScan
 Static-DOM-XSS-Scanner | https://github.com/ajinabraham/Static-DOM-XSS-Scanner
 Scanjs | https://github.com/ajinabraham/scanjs
 Yasca | http://scovetta.github.io/yasca/
